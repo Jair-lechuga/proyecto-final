@@ -2,5 +2,5 @@ Integrantes:
 Lechuga Canales Héctor Jair
 Luz Martínez Bryan
 Pérez de la Torre Ian Axel
-Proyecto:
-Pendiente 
+Proyecto
+agenda 2018-2019
