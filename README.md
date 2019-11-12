@@ -20,4 +20,4 @@ Agenda de contactos
 
 - Arboles: También descartamos esta estructura, aunque esta es más rápida que las anteriores para realizar búsquedas o modificaciones en los datos de la agenda no es la más eficiente.
 
-- Tablas hash: Finalmente elegimos esta estructura ya que las búsquedas o modificaciones a los datos de la agenda son de complejidad constante es decir no importa cuantos datos tengas ingresados en la agenda siempre se va tardar lo mismo para encontrar un dato, esto se debe a que esta estructura trabaja asignando claves a los datos que se van insertando.
+- **Tablas hash:** Finalmente elegimos esta estructura ya que las búsquedas o modificaciones a los datos de la agenda son de complejidad constante es decir no importa cuantos datos tengas ingresados en la agenda siempre se va tardar lo mismo para encontrar un dato, esto se debe a que esta estructura trabaja asignando claves a los datos que se van insertando.
